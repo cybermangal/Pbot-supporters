@@ -1,7 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T13:20:46.381Z",
+  "updatedAt": "2026-08-31T13:21:46.761Z",
   "sponsors": [
+    {
+      "userId": "408066374",
+      "tier": "authority"
+    },
     {
       "userId": "537051799",
       "tier": "authority"
