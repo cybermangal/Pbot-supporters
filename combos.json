@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-04",
-  "updatedAt": "2026-09-04T04:56:34.582Z",
+  "updatedAt": "2026-09-04T05:47:53.128Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -267,6 +267,27 @@
         "knife",
         "pokeEyes",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "knife",
+        "punchChest",
+        "knife",
+        "kickBalls",
+        "kneeEar",
+        "punchChest",
+        "gunshot",
+        "pokeEyes",
+        "gunshot",
+        "poison",
+        "kickBalls",
+        "knife",
+        "gunshot",
+        "kneeEar"
       ]
     },
     {
