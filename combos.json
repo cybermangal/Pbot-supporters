@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-04",
-  "updatedAt": "2026-09-04T10:47:53.220Z",
+  "updatedAt": "2026-09-04T14:47:53.250Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -466,6 +466,31 @@
         "gunshot",
         "pokeEyes",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 21,
+      "bossName": "Бандяк",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "punchChest",
+        "pokeEyes",
+        "poison",
+        "knife",
+        "pokeEyes",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "knife",
+        "punchChest",
+        "gunshot",
+        "knife",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "poison"
       ]
     },
     {
