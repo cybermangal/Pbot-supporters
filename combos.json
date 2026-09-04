@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-04",
-  "updatedAt": "2026-09-04T05:47:53.128Z",
+  "updatedAt": "2026-09-04T10:47:53.220Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -71,6 +71,28 @@
         "kneeEar",
         "gunshot",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "pokeEyes",
+        "kneeEar",
+        "gunshot",
+        "poison",
+        "knife",
+        "poison",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "knife",
+        "gunshot",
+        "punchChest",
+        "poison",
+        "kneeEar",
+        "poison"
       ]
     },
     {
