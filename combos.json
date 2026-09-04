@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-04",
-  "updatedAt": "2026-09-04T14:47:53.250Z",
+  "updatedAt": "2026-09-04T19:47:53.230Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -28,6 +28,28 @@
         "kneeEar",
         "gunshot",
         "poison"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "punchChest",
+        "knife",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "gunshot",
+        "knife",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
+        "kickBalls",
+        "kneeEar",
+        "poison",
+        "kneeEar"
       ]
     },
     {
@@ -353,6 +375,27 @@
         "kickBalls",
         "gunshot",
         "kneeEar"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "kneeEar",
+        "poison",
+        "pokeEyes",
+        "knife",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "poison",
+        "pokeEyes"
       ]
     },
     {
