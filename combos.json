@@ -1,7 +1,80 @@
 {
   "version": 1,
   "mskDate": "2026-09-07",
-  "updatedAt": "2026-09-06T21:05:58.170Z",
+  "updatedAt": "2026-09-06T21:21:40.918Z",
   "dateBasis": "daily-endpoint",
-  "combos": []
+  "combos": [
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kickBalls",
+        "pokeEyes",
+        "gunshot",
+        "knife",
+        "gunshot",
+        "kickBalls",
+        "poison",
+        "kickBalls",
+        "pokeEyes",
+        "poison"
+      ]
+    },
+    {
+      "bossId": 8,
+      "bossName": "Хирург",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kneeEar",
+        "poison",
+        "kneeEar",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "poison",
+        "knife"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
+      "comboMode": "pacansky",
+      "sequence": [
+        "pokeEyes",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "poison",
+        "kneeEar"
+      ]
+    }
+  ]
 }
