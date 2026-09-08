@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-08",
-  "updatedAt": "2026-09-08T04:38:08.960Z",
+  "updatedAt": "2026-09-08T18:41:43.022Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -709,6 +709,27 @@
         "punchChest",
         "poison",
         "knife"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "knife",
+        "pokeEyes",
+        "knife",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "knife",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "poison"
       ]
     }
   ]
