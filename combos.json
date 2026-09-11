@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-11",
-  "updatedAt": "2026-09-10T21:37:18.881Z",
+  "updatedAt": "2026-09-11T00:09:35.610Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -209,6 +209,29 @@
     {
       "bossId": 12,
       "bossName": "Бес",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "gunshot",
+        "knife",
+        "punchChest",
+        "poison",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "knife"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
       "comboMode": "pacansky",
       "sequence": [
         "pokeEyes",
@@ -219,6 +242,112 @@
         "kneeEar",
         "gunshot",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "poison",
+        "knife",
+        "pokeEyes",
+        "gunshot",
+        "kneeEar",
+        "punchChest",
+        "poison",
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "kneeEar",
+        "gunshot",
+        "pokeEyes",
+        "poison",
+        "gunshot",
+        "knife",
+        "pokeEyes",
+        "kickBalls"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "gunshot",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "gunshot",
+        "kickBalls",
+        "gunshot",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "knife",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kneeEar",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "knife",
+        "gunshot",
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "punchChest",
+        "poison",
+        "gunshot",
+        "knife",
+        "punchChest",
+        "poison",
+        "gunshot"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "pacansky",
+      "sequence": [
+        "poison",
+        "knife",
+        "punchChest",
+        "kneeEar",
+        "gunshot",
+        "punchChest",
+        "knife",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes"
       ]
     },
     {
@@ -315,6 +444,59 @@
         "knife",
         "kneeEar",
         "poison"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "knife",
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "pokeEyes",
+        "punchChest",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "gunshot",
+        "poison",
+        "pokeEyes",
+        "poison",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "kickBalls"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
+      "comboMode": "pacansky",
+      "sequence": [
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "poison",
+        "kneeEar",
+        "poison",
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls"
       ]
     },
     {
