@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-11",
-  "updatedAt": "2026-09-11T00:09:35.610Z",
+  "updatedAt": "2026-09-11T04:38:03.365Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -428,6 +428,31 @@
     {
       "bossId": 21,
       "bossName": "Бандяк",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "pokeEyes",
+        "punchChest",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "punchChest",
+        "knife",
+        "pokeEyes",
+        "knife",
+        "poison",
+        "gunshot",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "poison"
+      ]
+    },
+    {
+      "bossId": 21,
+      "bossName": "Бандяк",
       "comboMode": "pacansky",
       "sequence": [
         "knife",
@@ -529,6 +554,27 @@
         "gunshot",
         "knife",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "pacansky",
+      "sequence": [
+        "gunshot",
+        "punchChest",
+        "poison",
+        "kickBalls",
+        "punchChest",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "punchChest",
+        "poison",
+        "punchChest",
+        "kickBalls",
+        "kneeEar"
       ]
     }
   ]
