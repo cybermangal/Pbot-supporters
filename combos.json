@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-11",
-  "updatedAt": "2026-09-11T09:40:08.477Z",
+  "updatedAt": "2026-09-11T18:31:32.022Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -249,6 +249,25 @@
         "kneeEar",
         "pokeEyes",
         "knife"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "kickBalls",
+        "poison",
+        "punchChest",
+        "kickBalls",
+        "poison",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "poison",
+        "punchChest",
+        "pokeEyes",
+        "kickBalls"
       ]
     },
     {
