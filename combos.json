@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-12",
-  "updatedAt": "2026-09-12T00:17:25.143Z",
+  "updatedAt": "2026-09-12T05:46:17.666Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -354,6 +354,53 @@
     {
       "bossId": 16,
       "bossName": "Дюбель",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "knife",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "gunshot",
+        "knife",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "kickBalls",
+        "knife",
+        "gunshot"
+      ]
+    },
+    {
+      "bossId": 16,
+      "bossName": "Дюбель",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "pokeEyes",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "knife",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 16,
+      "bossName": "Дюбель",
       "comboMode": "pacansky",
       "sequence": [
         "poison",
@@ -504,6 +551,31 @@
         "kickBalls",
         "knife",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "knife",
+        "gunshot",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "pokeEyes",
+        "gunshot",
+        "knife",
+        "kickBalls"
       ]
     },
     {
