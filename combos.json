@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-12",
-  "updatedAt": "2026-09-12T14:06:43.267Z",
+  "updatedAt": "2026-09-12T17:08:32.789Z",
   "dateBasis": "daily-endpoint",
   "combos": [
     {
@@ -276,6 +276,25 @@
     {
       "bossId": 12,
       "bossName": "Бес",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "knife",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
+        "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
       "comboMode": "pacansky",
       "sequence": [
         "gunshot",
@@ -375,6 +394,27 @@
         "punchChest",
         "gunshot",
         "knife"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "gunshot",
+        "punchChest",
+        "knife",
+        "gunshot",
+        "kickBalls",
+        "gunshot",
+        "poison",
+        "kickBalls",
+        "pokeEyes",
+        "gunshot",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "poison"
       ]
     },
     {
