@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-19",
-  "updatedAt": "2026-09-18T22:49:25.577Z",
+  "updatedAt": "2026-09-19T01:34:34.178Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -254,6 +254,38 @@
     {
       "bossId": 25,
       "bossName": "Пресс",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "knife",
+        "punchChest",
+        "knife",
+        "kickBalls",
+        "gunshot",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "kickBalls",
+        "punchChest",
+        "knife",
+        "poison",
+        "gunshot",
+        "poison",
+        "knife",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "pokeEyes",
+        "poison",
+        "gunshot"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
       "comboMode": "blotnoy",
       "sequence": [
         "poison",
@@ -306,6 +338,31 @@
         "poison",
         "gunshot",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "gunshot",
+        "pokeEyes",
+        "gunshot",
+        "punchChest",
+        "poison",
+        "punchChest",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "gunshot",
+        "poison",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "kickBalls",
+        "punchChest"
       ]
     }
   ]
