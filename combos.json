@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-21",
-  "updatedAt": "2026-09-21T05:27:18.178Z",
+  "updatedAt": "2026-09-21T11:05:56.627Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -349,6 +349,27 @@
         "kneeEar",
         "kickBalls",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "pokeEyes",
+        "poison"
       ]
     }
   ]
