@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-24",
-  "updatedAt": "2026-09-24T06:44:03.429Z",
+  "updatedAt": "2026-09-24T12:54:16.567Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -28,6 +28,28 @@
         "kneeEar",
         "knife",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "knife",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "poison",
+        "kickBalls",
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes"
       ]
     },
     {
@@ -123,6 +145,22 @@
         "punchChest",
         "kickBalls",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "pokeEyes"
       ]
     },
     {
@@ -279,6 +317,31 @@
       ]
     },
     {
+      "bossId": 21,
+      "bossName": "Бандяк",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "poison",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "gunshot",
+        "knife",
+        "poison",
+        "knife",
+        "poison",
+        "gunshot",
+        "poison",
+        "knife",
+        "punchChest",
+        "kickBalls",
+        "gunshot"
+      ]
+    },
+    {
       "bossId": 25,
       "bossName": "Пресс",
       "comboMode": "avtoritetny",
@@ -333,6 +396,63 @@
         "poison",
         "pokeEyes",
         "kneeEar"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "punchChest",
+        "poison",
+        "knife",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "gunshot",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "poison",
+        "punchChest",
+        "kickBalls",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "gunshot",
+        "kneeEar",
+        "gunshot",
+        "punchChest",
+        "gunshot",
+        "knife",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "pokeEyes"
       ]
     },
     {
