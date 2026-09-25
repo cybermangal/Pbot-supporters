@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-25",
-  "updatedAt": "2026-09-25T06:35:04.625Z",
+  "updatedAt": "2026-09-25T12:13:47.927Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -54,6 +54,28 @@
         "kneeEar",
         "poison",
         "kneeEar"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "punchChest",
+        "pokeEyes",
+        "poison",
+        "kneeEar",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "gunshot",
+        "knife"
       ]
     },
     {
@@ -196,6 +218,27 @@
         "gunshot",
         "pokeEyes",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "punchChest",
+        "gunshot",
+        "knife",
+        "poison",
+        "kneeEar",
+        "punchChest",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "poison",
+        "punchChest",
+        "knife",
+        "pokeEyes",
+        "kneeEar"
       ]
     },
     {
