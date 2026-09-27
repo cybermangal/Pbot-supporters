@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-27",
-  "updatedAt": "2026-09-26T22:12:40.162Z",
+  "updatedAt": "2026-09-27T00:52:28.921Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -102,6 +102,23 @@
         "kneeEar",
         "knife",
         "poison"
+      ]
+    },
+    {
+      "bossId": 8,
+      "bossName": "Хирург",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "poison",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "gunshot",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes"
       ]
     },
     {
@@ -274,6 +291,23 @@
         "punchChest",
         "gunshot",
         "kneeEar"
+      ]
+    },
+    {
+      "bossId": 16,
+      "bossName": "Дюбель",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "poison",
+        "knife",
+        "pokeEyes"
       ]
     },
     {
