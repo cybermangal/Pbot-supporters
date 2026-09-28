@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-09-28",
-  "updatedAt": "2026-09-28T05:50:01.989Z",
+  "updatedAt": "2026-09-28T14:27:33.992Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -28,6 +28,45 @@
         "poison",
         "kneeEar",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "kickBalls",
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "kneeEar",
+        "gunshot",
+        "knife",
+        "kickBalls",
+        "pokeEyes",
+        "gunshot",
+        "kneeEar",
+        "knife",
+        "gunshot",
+        "pokeEyes",
+        "knife"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "pacansky",
+      "sequence": [
+        "poison",
+        "knife",
+        "poison",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "knife",
+        "poison",
+        "kickBalls"
       ]
     },
     {
@@ -76,6 +115,23 @@
         "knife",
         "poison",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "kickBalls"
       ]
     },
     {
@@ -168,6 +224,21 @@
       ]
     },
     {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "pacansky",
+      "sequence": [
+        "poison",
+        "punchChest",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "kickBalls",
+        "gunshot",
+        "punchChest"
+      ]
+    },
+    {
       "bossId": 13,
       "bossName": "Паленый",
       "comboMode": "avtoritetny",
@@ -190,6 +261,32 @@
         "pokeEyes",
         "knife",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "knife",
+        "kneeEar",
+        "knife",
+        "gunshot",
+        "kneeEar",
+        "knife",
+        "kickBalls",
+        "gunshot",
+        "poison",
+        "gunshot",
+        "poison",
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "gunshot",
+        "kickBalls"
       ]
     },
     {
