@@ -1,7 +1,34 @@
 {
   "version": 1,
   "mskDate": "2026-09-29",
-  "updatedAt": "2026-09-29T01:15:28.044Z",
+  "updatedAt": "2026-09-29T07:30:17.217Z",
   "dateBasis": "message-date-msk",
-  "combos": []
+  "combos": [
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "kneeEar",
+        "gunshot",
+        "kneeEar",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "poison",
+        "pokeEyes",
+        "poison",
+        "gunshot",
+        "pokeEyes",
+        "poison",
+        "pokeEyes",
+        "knife",
+        "poison",
+        "knife",
+        "gunshot",
+        "kneeEar"
+      ]
+    }
+  ]
 }
