@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-02",
-  "updatedAt": "2026-10-02T07:30:41.310Z",
+  "updatedAt": "2026-10-02T19:31:54.740Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -564,6 +564,27 @@
         "pokeEyes",
         "kneeEar",
         "knife"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "pacansky",
+      "sequence": [
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "poison",
+        "gunshot",
+        "punchChest",
+        "pokeEyes"
       ]
     }
   ]
