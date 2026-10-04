@@ -1,9 +1,35 @@
 {
   "version": 1,
   "mskDate": "2026-10-04",
-  "updatedAt": "2026-10-03T21:45:05.802Z",
+  "updatedAt": "2026-10-04T01:59:56.953Z",
   "dateBasis": "message-date-msk",
   "combos": [
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes"
+      ]
+    },
     {
       "bossId": 6,
       "bossName": "Бурят",
@@ -239,6 +265,38 @@
         "knife",
         "pokeEyes",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "poison",
+        "knife",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "gunshot",
+        "pokeEyes",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "knife",
+        "poison",
+        "knife",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "poison",
+        "knife",
+        "poison",
+        "gunshot",
+        "poison",
+        "punchChest",
+        "knife"
       ]
     }
   ]
