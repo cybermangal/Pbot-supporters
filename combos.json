@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-04",
-  "updatedAt": "2026-10-04T08:46:24.712Z",
+  "updatedAt": "2026-10-04T15:00:01.516Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -27,6 +27,23 @@
         "kneeEar",
         "kickBalls",
         "punchChest",
+        "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "pacansky",
+      "sequence": [
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
         "pokeEyes"
       ]
     },
@@ -120,6 +137,20 @@
       ]
     },
     {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "pacansky",
+      "sequence": [
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "punchChest"
+      ]
+    },
+    {
       "bossId": 12,
       "bossName": "Бес",
       "comboMode": "avtoritetny",
@@ -165,6 +196,23 @@
         "kneeEar",
         "knife",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "pacansky",
+      "sequence": [
+        "poison",
+        "punchChest",
+        "poison",
+        "knife",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "punchChest",
+        "gunshot",
+        "poison"
       ]
     },
     {
@@ -266,6 +314,31 @@
         "knife",
         "kickBalls",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 21,
+      "bossName": "Бандяк",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "poison",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "poison",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "poison",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "poison",
+        "kickBalls"
       ]
     },
     {
