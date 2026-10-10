@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-10",
-  "updatedAt": "2026-10-10T01:14:49.922Z",
+  "updatedAt": "2026-10-10T19:33:23.970Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -28,6 +28,23 @@
         "punchChest",
         "kickBalls",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls"
       ]
     },
     {
@@ -78,6 +95,20 @@
       ]
     },
     {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "pacansky",
+      "sequence": [
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest"
+      ]
+    },
+    {
       "bossId": 12,
       "bossName": "Бес",
       "comboMode": "avtoritetny",
@@ -98,6 +129,21 @@
         "kickBalls",
         "kneeEar",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "knife",
+        "kickBalls",
+        "punchChest",
+        "poison",
+        "gunshot"
       ]
     },
     {
@@ -272,6 +318,31 @@
         "poison",
         "kickBalls",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "punchChest",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "punchChest",
+        "gunshot",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "gunshot",
+        "pokeEyes",
+        "knife",
+        "kickBalls",
+        "kneeEar",
+        "knife"
       ]
     }
   ]
