@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-12",
-  "updatedAt": "2026-10-12T06:31:39.223Z",
+  "updatedAt": "2026-10-12T16:06:45.695Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -28,6 +28,75 @@
         "kneeEar",
         "kickBalls",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "poison",
+        "kickBalls",
+        "punchChest",
+        "gunshot",
+        "poison",
+        "gunshot",
+        "knife",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "gunshot",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "poison",
+        "punchChest",
+        "poison"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "gunshot",
+        "knife",
+        "pokeEyes",
+        "punchChest",
+        "gunshot",
+        "poison",
+        "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 8,
+      "bossName": "Хирург",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "gunshot",
+        "poison",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "gunshot",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "punchChest",
+        "gunshot",
+        "poison",
+        "knife"
       ]
     },
     {
@@ -72,6 +141,27 @@
     {
       "bossId": 10,
       "bossName": "Циклоп",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "punchChest",
+        "kickBalls"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
       "comboMode": "pacansky",
       "sequence": [
         "kickBalls",
@@ -81,6 +171,114 @@
         "punchChest",
         "kickBalls",
         "kneeEar"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "gunshot",
+        "poison",
+        "pokeEyes",
+        "poison",
+        "gunshot",
+        "pokeEyes",
+        "gunshot",
+        "pokeEyes",
+        "knife",
+        "kickBalls",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "kickBalls",
+        "poison",
+        "knife",
+        "punchChest",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "knife",
+        "gunshot",
+        "poison",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "pacansky",
+      "sequence": [
+        "poison",
+        "gunshot",
+        "punchChest",
+        "kneeEar",
+        "knife",
+        "gunshot",
+        "kneeEar",
+        "kickBalls"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "poison",
+        "pokeEyes",
+        "punchChest",
+        "knife",
+        "poison",
+        "gunshot",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar",
+        "poison",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "knife"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "punchChest",
+        "knife",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "kneeEar",
+        "gunshot",
+        "knife"
       ]
     },
     {
@@ -144,6 +342,38 @@
     {
       "bossId": 25,
       "bossName": "Пресс",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "gunshot",
+        "knife",
+        "gunshot",
+        "punchChest",
+        "poison",
+        "gunshot",
+        "knife",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "gunshot",
+        "knife",
+        "gunshot",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "poison",
+        "gunshot",
+        "knife",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
       "comboMode": "pacansky",
       "sequence": [
         "kneeEar",
@@ -160,6 +390,38 @@
         "knife",
         "gunshot",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 35,
+      "bossName": "Жульбаны",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "pokeEyes",
+        "knife",
+        "gunshot",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "gunshot",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "poison",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest"
       ]
     },
     {
