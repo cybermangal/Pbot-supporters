@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-15",
-  "updatedAt": "2026-10-15T00:53:50.412Z",
+  "updatedAt": "2026-10-15T06:25:19.434Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -75,6 +75,43 @@
         "kickBalls",
         "kneeEar",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "knife",
+        "kickBalls",
+        "kneeEar",
+        "pokeEyes",
+        "poison",
+        "punchChest",
+        "knife",
+        "poison",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
+        "kickBalls",
+        "pokeEyes",
+        "knife"
       ]
     },
     {
