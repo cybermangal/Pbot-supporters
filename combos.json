@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-16",
-  "updatedAt": "2026-10-16T12:44:47.272Z",
+  "updatedAt": "2026-10-16T17:43:02.221Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -269,6 +269,23 @@
         "poison",
         "kickBalls",
         "knife"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "gunshot",
+        "pokeEyes",
+        "punchChest",
+        "knife",
+        "kickBalls",
+        "punchChest",
+        "knife",
+        "gunshot",
+        "pokeEyes"
       ]
     },
     {
