@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-17",
-  "updatedAt": "2026-10-17T06:09:52.297Z",
+  "updatedAt": "2026-10-17T11:11:01.387Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -169,6 +169,32 @@
         "knife",
         "punchChest",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 16,
+      "bossName": "Дюбель",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "punchChest",
+        "pokeEyes",
+        "poison",
+        "knife",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
+        "knife",
+        "kneeEar",
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "poison"
       ]
     },
     {
