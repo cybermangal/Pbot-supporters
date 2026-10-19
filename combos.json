@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-19",
-  "updatedAt": "2026-10-19T05:18:29.191Z",
+  "updatedAt": "2026-10-19T11:16:36.798Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -83,6 +83,60 @@
       ]
     },
     {
+      "bossId": 8,
+      "bossName": "Хирург",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "blotnoy",
+      "sequence": [
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar",
+        "punchChest"
+      ]
+    },
+    {
       "bossId": 10,
       "bossName": "Циклоп",
       "comboMode": "pacansky",
@@ -117,6 +171,21 @@
         "knife",
         "poison",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "kickBalls",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "knife",
+        "poison"
       ]
     },
     {
@@ -279,6 +348,27 @@
         "punchChest",
         "pokeEyes",
         "knife"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
+      "comboMode": "pacansky",
+      "sequence": [
+        "punchChest",
+        "kickBalls",
+        "knife",
+        "gunshot",
+        "knife",
+        "gunshot",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "gunshot",
+        "poison",
+        "knife",
+        "punchChest"
       ]
     },
     {
