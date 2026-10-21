@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-21",
-  "updatedAt": "2026-10-21T14:08:16.542Z",
+  "updatedAt": "2026-10-21T19:00:13.837Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -216,6 +216,21 @@
         "kickBalls",
         "gunshot",
         "knife"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "pacansky",
+      "sequence": [
+        "poison",
+        "pokeEyes",
+        "poison",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "punchChest"
       ]
     },
     {
