@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-25",
-  "updatedAt": "2026-10-25T10:09:05.542Z",
+  "updatedAt": "2026-10-25T14:36:05.510Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -135,6 +135,20 @@
         "punchChest",
         "kneeEar",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar"
       ]
     },
     {
