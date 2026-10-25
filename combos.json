@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-25",
-  "updatedAt": "2026-10-25T05:17:00.901Z",
+  "updatedAt": "2026-10-25T10:09:05.542Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -180,6 +180,57 @@
       ]
     },
     {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "knife",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "kneeEar",
+        "gunshot",
+        "pokeEyes",
+        "punchChest",
+        "kneeEar",
+        "poison",
+        "gunshot",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "gunshot",
+        "kneeEar",
+        "knife",
+        "poison"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "poison",
+        "pokeEyes",
+        "kneeEar",
+        "knife",
+        "kneeEar",
+        "knife",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "poison",
+        "kneeEar",
+        "punchChest",
+        "knife",
+        "poison",
+        "punchChest",
+        "poison",
+        "gunshot"
+      ]
+    },
+    {
       "bossId": 16,
       "bossName": "Дюбель",
       "comboMode": "avtoritetny",
@@ -267,6 +318,27 @@
         "poison",
         "pokeEyes",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 25,
+      "bossName": "Пресс",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "kickBalls",
+        "poison",
+        "kickBalls",
+        "punchChest",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "knife",
+        "gunshot",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "kickBalls"
       ]
     },
     {
