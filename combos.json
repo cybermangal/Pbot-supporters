@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-27",
-  "updatedAt": "2026-10-27T00:49:26.897Z",
+  "updatedAt": "2026-10-27T06:51:07.148Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -130,6 +130,27 @@
         "poison",
         "punchChest",
         "pokeEyes",
+        "knife",
+        "punchChest"
+      ]
+    },
+    {
+      "bossId": 21,
+      "bossName": "Бандяк",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "kickBalls",
+        "kneeEar",
+        "knife",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
         "knife",
         "punchChest"
       ]
