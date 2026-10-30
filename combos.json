@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-30",
-  "updatedAt": "2026-10-30T00:21:43.025Z",
+  "updatedAt": "2026-10-30T06:25:33.316Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -19,6 +19,32 @@
         "kneeEar",
         "pokeEyes",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 8,
+      "bossName": "Хирург",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "gunshot",
+        "punchChest",
+        "knife",
+        "poison",
+        "pokeEyes",
+        "punchChest",
+        "knife",
+        "poison",
+        "kickBalls",
+        "gunshot",
+        "punchChest",
+        "knife",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar",
+        "gunshot",
+        "punchChest"
       ]
     },
     {
