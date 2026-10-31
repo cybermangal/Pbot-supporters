@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-10-31",
-  "updatedAt": "2026-10-31T15:52:57.413Z",
+  "updatedAt": "2026-10-31T20:19:02.777Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -28,6 +28,23 @@
         "pokeEyes",
         "kneeEar",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "pacansky",
+      "sequence": [
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes"
       ]
     },
     {
