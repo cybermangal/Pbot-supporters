@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-03",
-  "updatedAt": "2026-11-02T21:57:08.981Z",
+  "updatedAt": "2026-11-03T03:43:10.162Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -53,6 +53,23 @@
       ]
     },
     {
+      "bossId": 5,
+      "bossName": "Шайба",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls"
+      ]
+    },
+    {
       "bossId": 6,
       "bossName": "Бурят",
       "comboMode": "avtoritetny",
@@ -76,6 +93,23 @@
         "kickBalls",
         "punchChest",
         "knife"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "pacansky",
+      "sequence": [
+        "kneeEar",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "knife",
+        "poison"
       ]
     },
     {
@@ -217,6 +251,23 @@
       ]
     },
     {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "knife",
+        "punchChest",
+        "gunshot",
+        "knife"
+      ]
+    },
+    {
       "bossId": 16,
       "bossName": "Дюбель",
       "comboMode": "avtoritetny",
@@ -272,6 +323,27 @@
         "pokeEyes",
         "punchChest",
         "kickBalls"
+      ]
+    },
+    {
+      "bossId": 21,
+      "bossName": "Бандяк",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "gunshot",
+        "knife",
+        "gunshot",
+        "punchChest",
+        "knife",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "gunshot",
+        "pokeEyes",
+        "punchChest",
+        "gunshot"
       ]
     },
     {
