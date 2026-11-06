@@ -1,71 +1,7 @@
 {
   "version": 1,
-  "mskDate": "2026-11-06",
-  "updatedAt": "2026-11-06T00:33:50.824Z",
+  "mskDate": "2026-11-07",
+  "updatedAt": "2026-11-06T21:02:53.439Z",
   "dateBasis": "message-date-msk",
-  "combos": [
-    {
-      "bossId": 5,
-      "bossName": "Шайба",
-      "comboMode": "avtoritetny",
-      "sequence": [
-        "kneeEar",
-        "punchChest",
-        "kneeEar",
-        "punchChest",
-        "kneeEar",
-        "punchChest",
-        "pokeEyes",
-        "kneeEar",
-        "kickBalls",
-        "punchChest",
-        "kickBalls",
-        "punchChest",
-        "pokeEyes",
-        "kickBalls",
-        "kneeEar",
-        "pokeEyes",
-        "punchChest",
-        "kneeEar",
-        "pokeEyes"
-      ]
-    },
-    {
-      "bossId": 10,
-      "bossName": "Циклоп",
-      "comboMode": "avtoritetny",
-      "sequence": [
-        "pokeEyes",
-        "kneeEar",
-        "pokeEyes",
-        "kickBalls",
-        "punchChest",
-        "kneeEar",
-        "kickBalls",
-        "kneeEar",
-        "pokeEyes",
-        "punchChest",
-        "pokeEyes",
-        "punchChest",
-        "kneeEar",
-        "punchChest"
-      ]
-    },
-    {
-      "bossId": 10,
-      "bossName": "Циклоп",
-      "comboMode": "blotnoy",
-      "sequence": [
-        "kickBalls",
-        "kneeEar",
-        "kickBalls",
-        "punchChest",
-        "pokeEyes",
-        "punchChest",
-        "kneeEar",
-        "pokeEyes",
-        "punchChest"
-      ]
-    }
-  ]
+  "combos": []
 }
