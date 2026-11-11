@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-11",
-  "updatedAt": "2026-11-11T08:23:32.540Z",
+  "updatedAt": "2026-11-11T16:36:31.841Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -262,6 +262,32 @@
         "knife",
         "kickBalls",
         "gunshot"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "punchChest",
+        "pokeEyes",
+        "kneeEar",
+        "gunshot",
+        "punchChest",
+        "kneeEar",
+        "gunshot",
+        "kneeEar",
+        "gunshot",
+        "punchChest",
+        "pokeEyes",
+        "gunshot",
+        "poison",
+        "punchChest",
+        "knife",
+        "kickBalls"
       ]
     },
     {
