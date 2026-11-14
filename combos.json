@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-14",
-  "updatedAt": "2026-11-14T07:00:12.190Z",
+  "updatedAt": "2026-11-14T14:30:12.133Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -100,6 +100,27 @@
       ]
     },
     {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "kickBalls",
+        "kneeEar"
+      ]
+    },
+    {
       "bossId": 12,
       "bossName": "Бес",
       "comboMode": "avtoritetny",
@@ -141,6 +162,32 @@
         "knife",
         "gunshot",
         "punchChest"
+      ]
+    },
+    {
+      "bossId": 15,
+      "bossName": "Борзов",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "knife",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar",
+        "knife",
+        "gunshot",
+        "pokeEyes",
+        "poison",
+        "pokeEyes",
+        "kneeEar",
+        "pokeEyes",
+        "poison",
+        "knife",
+        "kneeEar",
+        "gunshot",
+        "punchChest",
+        "kickBalls",
+        "gunshot"
       ]
     },
     {
