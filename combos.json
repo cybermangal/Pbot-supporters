@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-15",
-  "updatedAt": "2026-11-15T03:04:38.813Z",
+  "updatedAt": "2026-11-15T17:59:57.773Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -321,6 +321,23 @@
         "pokeEyes",
         "kickBalls",
         "poison"
+      ]
+    },
+    {
+      "bossId": 16,
+      "bossName": "Дюбель",
+      "comboMode": "pacansky",
+      "sequence": [
+        "knife",
+        "pokeEyes",
+        "kickBalls",
+        "gunshot",
+        "knife",
+        "kneeEar",
+        "knife",
+        "kickBalls",
+        "poison",
+        "pokeEyes"
       ]
     },
     {
