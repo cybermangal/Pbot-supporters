@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-16",
-  "updatedAt": "2026-11-15T23:10:44.401Z",
+  "updatedAt": "2026-11-16T03:06:26.349Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -53,6 +53,32 @@
       ]
     },
     {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kneeEar",
+        "gunshot",
+        "kneeEar",
+        "gunshot",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "kickBalls",
+        "knife",
+        "pokeEyes",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "knife",
+        "poison",
+        "kneeEar",
+        "knife",
+        "kickBalls"
+      ]
+    },
+    {
       "bossId": 8,
       "bossName": "Хирург",
       "comboMode": "avtoritetny",
@@ -93,6 +119,27 @@
         "poison",
         "kickBalls",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 10,
+      "bossName": "Циклоп",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kneeEar",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "kneeEar",
+        "kickBalls",
+        "punchChest",
+        "kickBalls",
+        "punchChest",
+        "kickBalls",
+        "punchChest"
       ]
     },
     {
