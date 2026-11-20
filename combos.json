@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-20",
-  "updatedAt": "2026-11-19T22:26:49.151Z",
+  "updatedAt": "2026-11-20T03:43:59.343Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -53,6 +53,54 @@
         "poison",
         "pokeEyes",
         "kneeEar",
+        "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 12,
+      "bossName": "Бес",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "punchChest",
+        "kneeEar",
+        "punchChest",
+        "kickBalls",
+        "kneeEar",
+        "punchChest",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "punchChest",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "kneeEar"
+      ]
+    },
+    {
+      "bossId": 13,
+      "bossName": "Паленый",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "pokeEyes",
+        "gunshot",
+        "punchChest",
+        "poison",
+        "punchChest",
+        "kickBalls",
+        "gunshot",
+        "kneeEar",
+        "gunshot",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "kickBalls",
+        "poison",
+        "gunshot",
         "pokeEyes"
       ]
     },
