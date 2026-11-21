@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mskDate": "2026-11-21",
-  "updatedAt": "2026-11-21T11:45:47.771Z",
+  "updatedAt": "2026-11-21T19:47:06.307Z",
   "dateBasis": "message-date-msk",
   "combos": [
     {
@@ -24,6 +24,58 @@
         "kneeEar",
         "kickBalls",
         "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 6,
+      "bossName": "Бурят",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "pokeEyes",
+        "gunshot",
+        "knife",
+        "gunshot",
+        "punchChest",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "knife",
+        "pokeEyes",
+        "poison",
+        "pokeEyes",
+        "kickBalls",
+        "pokeEyes",
+        "punchChest",
+        "poison",
+        "gunshot",
+        "kneeEar",
+        "pokeEyes"
+      ]
+    },
+    {
+      "bossId": 8,
+      "bossName": "Хирург",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "kickBalls",
+        "poison",
+        "punchChest",
+        "knife",
+        "punchChest",
+        "knife",
+        "poison",
+        "gunshot",
+        "poison",
+        "kneeEar",
+        "kickBalls",
+        "gunshot",
+        "pokeEyes",
+        "poison",
+        "kneeEar",
+        "poison",
+        "kneeEar",
+        "pokeEyes",
+        "punchChest"
       ]
     },
     {
@@ -118,6 +170,38 @@
         "poison",
         "kneeEar",
         "poison"
+      ]
+    },
+    {
+      "bossId": 21,
+      "bossName": "Бандяк",
+      "comboMode": "avtoritetny",
+      "sequence": [
+        "pokeEyes",
+        "gunshot",
+        "knife",
+        "pokeEyes",
+        "knife",
+        "poison",
+        "kneeEar",
+        "knife",
+        "kickBalls",
+        "knife",
+        "punchChest",
+        "kickBalls",
+        "pokeEyes",
+        "poison",
+        "kickBalls",
+        "knife",
+        "kickBalls",
+        "gunshot",
+        "pokeEyes",
+        "kneeEar",
+        "poison",
+        "kneeEar",
+        "gunshot",
+        "kickBalls",
+        "gunshot"
       ]
     },
     {
